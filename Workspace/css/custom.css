@@ -1,0 +1,10 @@
+body {
+	font-family: Arial,Tahoma;
+	font-size:80%;
+}
+
+.attrLabel {
+	color:black;
+	font-weight:bolder;
+	background-color: #A1D9FF;
+}
